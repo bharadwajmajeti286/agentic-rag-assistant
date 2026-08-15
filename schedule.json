@@ -1,0 +1,227 @@
+[
+  {
+    "id": "evt001",
+    "date": "2026-08-15",
+    "start": "10:00",
+    "end": "11:00",
+    "title": "Project Planning Meeting",
+    "type": "meeting",
+    "description": "Discuss Agentic RAG Schedule Assistant milestones and tasks."
+  },
+  {
+    "id": "evt002",
+    "date": "2026-08-16",
+    "start": "14:00",
+    "end": "15:30",
+    "title": "Python Workshop",
+    "type": "workshop",
+    "description": "Hands-on workshop covering Python automation and APIs."
+  },
+  {
+    "id": "evt003",
+    "date": "2026-08-17",
+    "start": "09:30",
+    "end": "10:30",
+    "title": "Database Lab",
+    "type": "task",
+    "description": "Complete database lab exercises and submit the work."
+  },
+  {
+    "id": "evt004",
+    "date": "2026-08-18",
+    "start": "16:00",
+    "end": "17:00",
+    "title": "Doctor Appointment",
+    "type": "appointment",
+    "description": "Routine appointment."
+  },
+  {
+    "id": "evt005",
+    "date": "2026-08-19",
+    "start": "11:00",
+    "end": "12:00",
+    "title": "Team Stand-up",
+    "type": "meeting",
+    "description": "Weekly project progress discussion."
+  },
+  {
+    "id": "evt006",
+    "date": "2026-08-20",
+    "start": "13:00",
+    "end": "14:30",
+    "title": "AI/ML Workshop",
+    "type": "workshop",
+    "description": "Introduction to retrieval augmented generation."
+  },
+  {
+    "id": "evt007",
+    "date": "2026-08-21",
+    "start": "15:00",
+    "end": "16:00",
+    "title": "Project Documentation",
+    "type": "task",
+    "description": "Update README and architecture documentation."
+  },
+  {
+    "id": "evt008",
+    "date": "2026-08-22",
+    "start": "10:00",
+    "end": "11:30",
+    "title": "Mentor Meeting",
+    "type": "meeting",
+    "description": "Review project progress with mentor."
+  },
+  {
+    "id": "evt009",
+    "date": "2026-08-24",
+    "start": "09:00",
+    "end": "10:00",
+    "title": "Software Engineering Class",
+    "type": "meeting",
+    "description": "Attend scheduled class session."
+  },
+  {
+    "id": "evt010",
+    "date": "2026-08-25",
+    "start": "14:00",
+    "end": "15:00",
+    "title": "Assignment Work",
+    "type": "task",
+    "description": "Complete the weekly programming assignment."
+  },
+  {
+    "id": "evt011",
+    "date": "2026-08-26",
+    "start": "11:30",
+    "end": "12:30",
+    "title": "Project Review",
+    "type": "meeting",
+    "description": "Review current implementation and test cases."
+  },
+  {
+    "id": "evt012",
+    "date": "2026-08-27",
+    "start": "16:00",
+    "end": "17:30",
+    "title": "Cloud Deployment Workshop",
+    "type": "workshop",
+    "description": "Learn deployment basics with Streamlit Cloud."
+  },
+  {
+    "id": "evt013",
+    "date": "2026-08-28",
+    "start": "10:30",
+    "end": "11:30",
+    "title": "Library Appointment",
+    "type": "appointment",
+    "description": "Reserved study session."
+  },
+  {
+    "id": "evt014",
+    "date": "2026-08-29",
+    "start": "13:00",
+    "end": "14:00",
+    "title": "Team Meeting",
+    "type": "meeting",
+    "description": "Discuss upcoming project presentation."
+  },
+  {
+    "id": "evt015",
+    "date": "2026-08-31",
+    "start": "09:30",
+    "end": "10:30",
+    "title": "Data Structures Practice",
+    "type": "task",
+    "description": "Practice trees, graphs, and searching algorithms."
+  },
+  {
+    "id": "evt016",
+    "date": "2026-09-01",
+    "start": "15:00",
+    "end": "16:00",
+    "title": "AI Seminar",
+    "type": "workshop",
+    "description": "Seminar on modern AI agents."
+  },
+  {
+    "id": "evt017",
+    "date": "2026-09-02",
+    "start": "11:00",
+    "end": "12:00",
+    "title": "Faculty Meeting",
+    "type": "meeting",
+    "description": "Academic project discussion."
+  },
+  {
+    "id": "evt018",
+    "date": "2026-09-03",
+    "start": "14:30",
+    "end": "15:30",
+    "title": "Health Check Appointment",
+    "type": "appointment",
+    "description": "Routine health check."
+  },
+  {
+    "id": "evt019",
+    "date": "2026-09-04",
+    "start": "10:00",
+    "end": "11:00",
+    "title": "Coding Practice",
+    "type": "task",
+    "description": "Solve Python algorithm problems."
+  },
+  {
+    "id": "evt020",
+    "date": "2026-09-05",
+    "start": "16:00",
+    "end": "17:00",
+    "title": "Project Demo Preparation",
+    "type": "task",
+    "description": "Prepare the project demonstration flow."
+  },
+  {
+    "id": "evt021",
+    "date": "2026-09-07",
+    "start": "09:00",
+    "end": "10:30",
+    "title": "RAG Workshop",
+    "type": "workshop",
+    "description": "Advanced retrieval and vector database concepts."
+  },
+  {
+    "id": "evt022",
+    "date": "2026-09-08",
+    "start": "12:00",
+    "end": "13:00",
+    "title": "Group Meeting",
+    "type": "meeting",
+    "description": "Coordinate group project activities."
+  },
+  {
+    "id": "evt023",
+    "date": "2026-09-09",
+    "start": "15:30",
+    "end": "16:30",
+    "title": "Assignment Submission",
+    "type": "task",
+    "description": "Finalize and submit the assignment."
+  },
+  {
+    "id": "evt024",
+    "date": "2026-09-10",
+    "start": "10:00",
+    "end": "11:00",
+    "title": "Career Workshop",
+    "type": "workshop",
+    "description": "Resume and interview preparation session."
+  },
+  {
+    "id": "evt025",
+    "date": "2026-09-11",
+    "start": "14:00",
+    "end": "15:00",
+    "title": "Advisor Appointment",
+    "type": "appointment",
+    "description": "Academic advising session."
+  }
+]
