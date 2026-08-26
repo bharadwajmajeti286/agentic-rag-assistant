@@ -1,5 +1,0 @@
-streamlit
-chromadb
-sentence-transformers
-langchain-core
-langchain-google-genai
