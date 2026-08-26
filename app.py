@@ -242,7 +242,7 @@ def create_llm(api_key):
     if not api_key:
         return None
     return ChatGoogleGenerativeAI(
-        model="gemini-2.5-flash",
+        model="gemini-3.6-flash",
         api_key=api_key,
         temperature=0,
         max_retries=2,
@@ -308,7 +308,7 @@ st.caption("Gemini + LangChain tool calling + ChromaDB Vector Database")
 
 with st.sidebar:
     st.subheader("System")
-    st.write("**LLM:** Gemini 2.5 Flash")
+    st.write("**LLM:** Gemini 3.6 Flash")
     st.write("**Agent:** LangChain")
     st.write("**Vector DB:** ChromaDB")
     st.write("**Embeddings:** all-MiniLM-L6-v2")
