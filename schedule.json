@@ -1,0 +1,202 @@
+[
+  {
+    "id": "evt001",
+    "title": "Team Stand-up",
+    "type": "meeting",
+    "date": "2026-08-26",
+    "start": "10:00",
+    "end": "10:30",
+    "location": "Online",
+    "notes": "Daily project sync"
+  },
+  {
+    "id": "evt002",
+    "title": "AI Workshop",
+    "type": "workshop",
+    "date": "2026-08-27",
+    "start": "11:00",
+    "end": "13:00",
+    "location": "Seminar Hall",
+    "notes": "Hands-on RAG workshop"
+  },
+  {
+    "id": "evt003",
+    "title": "Project Planning Meeting",
+    "type": "meeting",
+    "date": "2026-08-27",
+    "start": "14:00",
+    "end": "15:00",
+    "location": "Room 204",
+    "notes": "Plan next sprint"
+  },
+  {
+    "id": "evt004",
+    "title": "Database Assignment",
+    "type": "task",
+    "date": "2026-08-28",
+    "start": "09:00",
+    "end": "11:00",
+    "location": "Home",
+    "notes": "Complete SQL queries"
+  },
+  {
+    "id": "evt005",
+    "title": "Doctor Appointment",
+    "type": "appointment",
+    "date": "2026-08-29",
+    "start": "16:00",
+    "end": "17:00",
+    "location": "City Clinic",
+    "notes": "Routine appointment"
+  },
+  {
+    "id": "evt006",
+    "title": "Team Stand-up",
+    "type": "meeting",
+    "date": "2026-08-31",
+    "start": "10:00",
+    "end": "10:30",
+    "location": "Online",
+    "notes": "Daily project sync"
+  },
+  {
+    "id": "evt007",
+    "title": "Python Practice",
+    "type": "task",
+    "date": "2026-09-01",
+    "start": "18:00",
+    "end": "19:30",
+    "location": "Home",
+    "notes": "Practice DSA problems"
+  },
+  {
+    "id": "evt008",
+    "title": "Cloud Computing Workshop",
+    "type": "workshop",
+    "date": "2026-09-02",
+    "start": "11:00",
+    "end": "13:00",
+    "location": "Lab 3",
+    "notes": "Cloud deployment basics"
+  },
+  {
+    "id": "evt009",
+    "title": "Project Review",
+    "type": "meeting",
+    "date": "2026-09-03",
+    "start": "14:00",
+    "end": "15:30",
+    "location": "Conference Room",
+    "notes": "Review prototype"
+  },
+  {
+    "id": "evt010",
+    "title": "Gym Session",
+    "type": "appointment",
+    "date": "2026-09-04",
+    "start": "07:00",
+    "end": "08:00",
+    "location": "Fitness Center",
+    "notes": "Morning workout"
+  },
+  {
+    "id": "evt011",
+    "title": "Web Programming Assignment",
+    "type": "task",
+    "date": "2026-09-05",
+    "start": "15:00",
+    "end": "17:00",
+    "location": "Home",
+    "notes": "Finish event-handling exercise"
+  },
+  {
+    "id": "evt012",
+    "title": "Team Stand-up",
+    "type": "meeting",
+    "date": "2026-09-07",
+    "start": "10:00",
+    "end": "10:30",
+    "location": "Online",
+    "notes": "Daily project sync"
+  },
+  {
+    "id": "evt013",
+    "title": "AI Seminar",
+    "type": "workshop",
+    "date": "2026-09-08",
+    "start": "12:00",
+    "end": "14:00",
+    "location": "Auditorium",
+    "notes": "Agentic AI seminar"
+  },
+  {
+    "id": "evt014",
+    "title": "Mentor Meeting",
+    "type": "meeting",
+    "date": "2026-09-09",
+    "start": "16:00",
+    "end": "17:00",
+    "location": "Faculty Block",
+    "notes": "Project discussion"
+  },
+  {
+    "id": "evt015",
+    "title": "Library Study Block",
+    "type": "task",
+    "date": "2026-09-10",
+    "start": "09:00",
+    "end": "11:00",
+    "location": "Library",
+    "notes": "Prepare for internal assessment"
+  },
+  {
+    "id": "evt016",
+    "title": "Hackathon Preparation",
+    "type": "task",
+    "date": "2026-09-11",
+    "start": "14:00",
+    "end": "17:00",
+    "location": "Lab 2",
+    "notes": "Prototype and testing"
+  },
+  {
+    "id": "evt017",
+    "title": "Team Stand-up",
+    "type": "meeting",
+    "date": "2026-09-14",
+    "start": "10:00",
+    "end": "10:30",
+    "location": "Online",
+    "notes": "Daily project sync"
+  },
+  {
+    "id": "evt018",
+    "title": "RAG Project Demo",
+    "type": "meeting",
+    "date": "2026-09-15",
+    "start": "15:00",
+    "end": "16:00",
+    "location": "Innovation Lab",
+    "notes": "Demonstrate schedule assistant"
+  },
+  {
+    "id": "evt019",
+    "title": "Workshop on Vector Databases",
+    "type": "workshop",
+    "date": "2026-09-16",
+    "start": "11:00",
+    "end": "13:00",
+    "location": "Lab 1",
+    "notes": "ChromaDB and embeddings"
+  },
+  {
+    "id": "evt020",
+    "title": "Project Submission",
+    "type": "task",
+    "date": "2026-09-18",
+    "start": "10:00",
+    "end": "12:00",
+    "location": "Online Portal",
+    "notes": "Submit final project"
+  }
+]
