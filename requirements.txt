@@ -1,6 +1,0 @@
-streamlit
-chromadb
-sentence-transformers
-langgraph
-langchain-core
-langchain-groq
