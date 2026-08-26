@@ -191,7 +191,10 @@ with st.sidebar:
     st.write("**Tools:** get_schedule, update_schedule")
     st.divider()
     st.write(f"Events: {len(load_events())}")
-    st.info("Set GOOGLE_API_KEY in Streamlit Secrets.")
+    if get_llm() is None:
+    st.warning("GOOGLE_API_KEY is not configured.")
+    else:
+    st.success("Gemini API connected.")
 
 if "messages" not in st.session_state:
     st.session_state.messages = []
