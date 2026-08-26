@@ -192,9 +192,9 @@ with st.sidebar:
     st.divider()
     st.write(f"Events: {len(load_events())}")
     if get_llm() is None:
-    st.warning("GOOGLE_API_KEY is not configured.")
+        st.warning("GOOGLE_API_KEY is not configured.")
     else:
-    st.success("Gemini API connected.")
+        st.success("Gemini API connected.")
 
 if "messages" not in st.session_state:
     st.session_state.messages = []
